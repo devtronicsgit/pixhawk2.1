@@ -1,0 +1,40 @@
+Field=Comment~String~Comment~99|Field=Description~String~Description~99|Field=Designator~String~Designator~99|Field=Footprint~String~Footprint~99|Field=LibRef~String~LibRef~99|Field=Quantity~Integer~Quantity~99|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PSM_REV_C.PrjPcb|ReportField=ProjectFullPath~C:\Users\dadmin\Documents\GitHub\pixhawk2.1\PSM\PSM_REV_C.PrjPcb|ReportField=Title~BOM_PartType For Project [PSM_REV_C.PrjPcb] (PCB Document : PSM.CSPcbDoc)|ReportField=TotalQuantity~64|ReportField=ReportTime~8:16:10 PM|ReportField=ReportDate~25/02/2018|ReportField=ReportDateTime~25/02/2018 8:16:10 PM|ReportField=OutputName~BOM_PartType|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~|ReportField=DrawnBy~Philip Rowse|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~|ReportField=Organization~|ReportField=ProjectName~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PSM_REV_C.PrjPcb|ReportField=DataSourceFullPath~C:\Users\dadmin\Documents\GitHub\pixhawk2.1\PSM\PSM_REV_C.PrjPcb|ReportField=PCBDataSourceFileName~PSM.CSPcbDoc|ReportField=PCBDataSourceFullPath~C:\Users\dadmin\Documents\GitHub\pixhawk2.1\PSM\PSM.CSPcbDoc
+10n||C1|0402-CAP|CAP0402|1
+10u/25V||C2|0805-CAP|CAP0805|1
+1u||C3, C7|0603-CAP|CAP0603|2
+10u||C4, C401, C402|0603-CAP|CAP0603|3
+0u1||C5|0402-CAP|CAP0402|1
+0u47||C6|0402-CAP|CAP0402|1
+5n6||C8|0402-CAP|CAP0402|1
+100u||C801, C803, C805, C810|1206-CAP|CAP1206|4
+10p/25V||C802, C804|0402-CAP|CAP0402|2
+1000p/25V||C806|0402-CAP|CAP0402|1
+0u1 25v||C807, C808, C809|0402-CAP|CAP0402|3
+PMEG2005CT||D1, D3|SOT23-3|PMEG2005CT|2
+MMSZ5232BT1G||D4|SOD-123|DIODESOD-123|1
+0ZCA0035FF2G||F1, F3|PTC-1206|PTCSMD|2
+0ZCA0020FF2E||F4|PTC-1206|PTCSMD|1
+Power_out||JP1|1X06M|PINHD-1X6_2.00|1
+POWER_IN||JP2|1X06M|PINHD-1X6_2.00|1
+PINHD-1X7_2.00||JP3|1X07M|PINHD-1X7_2.00|1
+FMU_Power||JP4|1X06M|PINHD-1X6_2.00|1
+47uH||L1|0805-IND|INDUCTOR0805|1
+Kyocera KNH16C104DA5TS EMI filter||L603|KYOCERA-KNH16-DA|KNH16C104DA5TS|1
+MMBT3906*SMD||Q5001|SOT23-BEC|MMBT3906*SMD|1
+453K||R1, R801, R804, R807|0402-RES|RESISTOR0402-RES|4
+16K5||R2, R401, R10001|0402-RES|RESISTOR0402-RES|3
+100K||R3|0402-RES|RESISTOR0402-RES|1
+10K||R4, R404|0402-RES|RESISTOR0402-RES|2
+9K09||R5|0402-RES|RESISTOR0402-RES|1
+1M||R402, R405|0402-RES|RESISTOR0402-RES|2
+25K5||R403|0402-RES|RESISTOR0402-RES|1
+56K||R802, R805, R808|0402-RES|RESISTOR0402-RES_1, RESISTOR0402-RES, RESISTOR0402-RES|3
+105K||R803, R806, R809|0402-RES|RESISTOR0402-RES|3
+1K||R5002|0402-RES|RESISTOR0402-RES|1
+1M||RN801|EXB28V|4R-NEXB28V|1
+MIC5332||U1|MLF-8-EPAD|MIC5332|1
+LT3469||U2|SOT23-8|LT3469|1
+BQ24315||U401, U402|QFN8-DSG|BQ24315|2
+MOSFET-DUAL-PCHANNEL-CHIPFET|MOSFET 2P-CH 20V 2.9A CHIPFET|U801, U802, U804|1206-8|MOSFET-DUAL-PCHANNEL-CHIPFET|3
+LTC4417||U803|MO-220|LTC4117|1
+BQ24313||U10001|QFN8-DSG|BQ24313|1

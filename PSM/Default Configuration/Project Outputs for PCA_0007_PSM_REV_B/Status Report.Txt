@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 8:16:10 PM On 25/02/2018
+
+Output: BOM_PartType
+Type  : BOM
+From  : Variant [[No Variations]] of Project [PSM_REV_C.PrjPcb]
+   Generated File[BOM_PartType-PSM_REV_C.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:16:10 PM On 25/02/2018
